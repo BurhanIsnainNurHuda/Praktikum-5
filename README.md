@@ -120,3 +120,10 @@ Output:
     Program selesai.
 
 • Ketika saya selesai, cukup pilih untuk keluar dari program, dan saya akan mendapatkan pesan bahwa program telah selesai. Ini memberikan rasa pencapaian setelah mengelola data dengan baik.    
+
+# Input & Output 
+![IMG_20241120_230344](https://github.com/user-attachments/assets/cdf02925-505c-4145-b55c-e9c0eed2109e)
+![IMG_20241120_230652](https://github.com/user-attachments/assets/64bd51de-26b6-43d4-8fff-20112f440d99)
+![IMG_20241120_230935](https://github.com/user-attachments/assets/74dbc17d-b254-4788-b9a4-54ca52cb8d2a)
+![IMG_20241120_235936](https://github.com/user-attachments/assets/01a02e93-815c-4311-925c-aadc590f8339)
+
