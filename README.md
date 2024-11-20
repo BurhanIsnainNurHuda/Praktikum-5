@@ -15,3 +15,4 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 
 # Python Code 
 ![IMG_20241120_230344](https://github.com/user-attachments/assets/f2ea505f-fab7-41e1-afc5-e79f6607440c)
+![IMG_20241120_230652](https://github.com/user-attachments/assets/a9d0ee34-e68c-4da3-b509-4307d5481424)
