@@ -45,3 +45,22 @@ Output:
 • Pengguna memasukkan NIM, nama, dan nilai-nilai mahasiswa.
 
 • Program memberi tahu bahwa data berhasil ditambahkan. Rasanya seperti berhasil menyimpan informasi penting
+
+2. Melihat Data Mahasiswa
+
+Input:
+
+    `1`
+
+Output:
+
+    Daftar Nilai
+    =========================================
+    | NO |  NIM  |  Nama  | Tugas | UTS | UAS | Akhir |
+    =========================================
+    | 1  | 123456 | John Doe | 85.0 | 78.0 | 90.0 | 84.05 |
+    =========================================
+
+• Ketika saya ingin melihat daftar mahasiswa, program menampilkan semua data dalam format tabel yang rapi. Ini memudahkan saya untuk melihat semua informasi sekaligus.    
+
+3. 
