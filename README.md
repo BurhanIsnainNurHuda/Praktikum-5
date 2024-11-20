@@ -12,3 +12,6 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 • Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
 • Buat flowchart dan penjelasan programnya pada README.md.
 • Commit dan push repository ke github.
+
+# Python Code 
+![IMG_20241120_230344](https://github.com/user-attachments/assets/f2ea505f-fab7-41e1-afc5-e79f6607440c)
