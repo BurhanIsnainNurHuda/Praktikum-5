@@ -5,7 +5,9 @@
     Kelas: TI.24.A.2
     Mata Kuliah: Bahasa Pemograman
 
-#  Tugas Praktikum
+# Flowchart    
+
+# Tugas Praktikum
 
 Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan
 
