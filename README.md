@@ -28,4 +28,20 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 
 # Penjelasan Program
 
-1.
+1. Menambah Data Mahasiswa
+
+Input:
+
+    NIM  : 211220
+    Nama : Burhan Isnain 
+    Nilai Tugas: 87
+    Nilai UTS: 89
+    Nilai UAS: 90
+
+Output:
+
+    Data berhasil ditambahkan!
+
+• Pengguna memasukkan NIM, nama, dan nilai-nilai mahasiswa.
+
+• Program memberi tahu bahwa data berhasil ditambahkan. Rasanya seperti berhasil menyimpan informasi penting
