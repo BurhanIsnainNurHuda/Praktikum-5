@@ -58,9 +58,65 @@ Output:
     =========================================
     | NO |  NIM  |  Nama  | Tugas | UTS | UAS | Akhir |
     =========================================
-    | 1  | 123456 | John Doe | 85.0 | 78.0 | 90.0 | 84.05 |
+    | 1  | 211220 | Burhan Isnain | 87.0 | 89.0 | 90.0 | 88.75 |
     =========================================
 
 • Ketika saya ingin melihat daftar mahasiswa, program menampilkan semua data dalam format tabel yang rapi. Ini memudahkan saya untuk melihat semua informasi sekaligus.    
 
-3. 
+3. Mengubah Data Mahasiswa
+
+Input:
+
+    Masukkan NIM mahasiswa: 211220
+    Nilai Tugas Baru: 87
+    Nilai UTS Baru: 89
+    Nilai UAS Baru: 90
+    
+Output:
+
+    Data berhasil diubah!
+    
+• Jika saya perlu mengubah nilai karena ada kesalahan, program memungkinkan saya untuk melakukannya dengan mudah. Setelah mengubah, saya merasa tenang karena data sekarang sudah benar.
+
+4. Mencari Data Mahasiswa
+
+Input:
+
+    `c`
+    Masukkan NIM mahasiswa: 211220
+
+Output:
+
+    Data ditemukan!
+    NIM   : 211220
+    Nama  : Burhan Isnain 
+    Tugas : 87.0
+    UTS   : 89.0
+    UAS   : 90.0
+    Akhir : 88.75
+
+• Ketika saya ingin mencari informasi tentang seorang mahasiswa, cukup masukkan NIM mereka. Program dengan cepat menunjukkan semua informasi yang saya butuhkan.  
+
+5. Menghapus Data Mahasiswa
+
+Input:
+
+    Masukkan NIM mahasiswa: 211220
+
+Output:
+
+    Data berhasil dihapus!
+
+• Jika seorang mahasiswa sudah tidak lagi terdaftar, saya bisa menghapus datanya dengan mudah. Program akan memberitahu bahwa data berhasil dihapus, membuat saya merasa lebih teratur.    
+
+6. Keluar Dari Program
+
+Input:
+
+    `k`
+
+Output:
+
+    Program selesai.
+
+    
