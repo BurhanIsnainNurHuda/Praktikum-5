@@ -25,3 +25,7 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 ![IMG_20241120_230344](https://github.com/user-attachments/assets/f2ea505f-fab7-41e1-afc5-e79f6607440c)
 ![IMG_20241120_230652](https://github.com/user-attachments/assets/a9d0ee34-e68c-4da3-b509-4307d5481424)
 ![IMG_20241120_230935](https://github.com/user-attachments/assets/b8e52582-2c9a-48f7-b198-2fc977be3434)
+
+# Penjelasan Program
+
+1.
