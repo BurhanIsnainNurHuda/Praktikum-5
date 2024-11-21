@@ -7,6 +7,9 @@
 
 # Flowchart    
 
+![Praktikum 5-Halaman-2 (1)](https://github.com/user-attachments/assets/5ffa1158-5afd-487c-9ee1-ba48d131cec3)
+
+
 # Tugas Praktikum
 
 Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan
